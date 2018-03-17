@@ -1,8 +1,10 @@
 package com.ft.briantaylorsoundboard;
 
 /**
- * Created by hp on 16-Mar-18.
+ * Created by Fabian Tauriello on 16-Mar-18.
  */
+
+// This defines a Sound class which represents the data model being displayed by the RecyclerView
 
 public class Sound {
     private String name;
